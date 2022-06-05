@@ -7,16 +7,16 @@ keywords:
   - Cecil
   - Static Site Generator
   - SSG
-author: Arnaud Ligny
+author: Yanna
 date:
   format: j F Y
-  timezone: Europe/Paris
+  timezone: Europe/Brussels
 hyde:
   sidebar:
     sticky: true
   theme: ""
   reverse: false
-title: Teest
-description: With Love to Sound
+title: Yanna Soentjens
+description: Sound Engineer
 baseurl: /
 canonicalurl: true
