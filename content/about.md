@@ -4,19 +4,14 @@ date: 2019-07-09
 menu:
   main:
     weight: 999
+draft: false
 ---
 > A ready to use static blog, powered by [Cecil](https://cecil.app).
 
-## How to use?
+## Who is Yanna?
+She is a Cookie
 
-### Managing content with [Forestry](https://forestry.io)
+### See her IMDB
 
-If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
+[![See her IMDB](https://assets.forestry.io/import-to-forestryK.svg)](https://www.imdb.com/name/nm3774049/)
 
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://cecil.app/cms/forestry/import/)
-
-### Deploy with [Netlify](https://www.netlify.com)
-
-Otherwise, if your goal is deploying a new blog quickly, and manage content mannually, use the following button to configure and deploy your new blog on Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/the-butler&stack=cms)
